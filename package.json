@@ -50,7 +50,7 @@
   "dependencies": {
     "ansi-colors": "^4.1.3",
     "commander": "^12.1.0",
-    "eufy-security-client": "^3.1.0",
+    "eufy-security-client": "git://github.com/kvj/eufy-security-client.git#b33493107f97366a8a610e9f5e5d389452a2eb29",
     "fs-extra": "^11.2.0",
     "tslog": "^4.9.3",
     "ws": "^8.18.0",
